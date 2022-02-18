@@ -1,0 +1,20 @@
+{
+  "name": "vendor_name/memoquiz-eng-soft",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Guilherme Morló",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "src"
+    }
+  },
+  "require": {
+    "cboden/ratchet": "^0.4"
+  }
+}
