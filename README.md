@@ -3,7 +3,8 @@
 - Projeto criado para o Trabalho final do 1º Semestre da matéria de Fundamentos da Engenharia de Software
 - Autores: Guilherme e João Pedro
 
---- Abaixo Scripts de criação do banco e das tabelas ---
+
+- Abaixo Scripts de criação do banco e das tabelas (PostgreSQL 12.9)
 
 -- SCHEMA: memoquiz
 
